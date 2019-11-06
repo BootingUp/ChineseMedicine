@@ -8,5 +8,5 @@
 ###
 三焦
 ###
-![截图](image/三焦.npg)
+![截图](/ChineseMedicine/image/三焦.PNG)
 
