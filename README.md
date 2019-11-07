@@ -1,4 +1,4 @@
-# 各种疾病中药药方
+# 中医理论知识、中药收集、药性讲解、药归类、脉学等。
 
 
 ## 三焦
@@ -23,7 +23,14 @@
 
 ### 热
 
-## 五脏六腑
+## 五行与五脏六腑
+![五行与五脏](https://github.com/BootingUp/ChineseMedicine/blob/master/image/%E4%B8%AD%E5%8C%BB%E4%BA%94%E8%A1%8C.PNG)
+  
+ 
+
+
+
+
 
 
 
