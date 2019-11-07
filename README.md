@@ -32,6 +32,7 @@ __[五行与五脏六腑](#五行与五脏六腑)__
 ![五行与五脏](https://github.com/BootingUp/ChineseMedicine/blob/master/image/%E4%B8%AD%E5%8C%BB%E4%BA%94%E8%A1%8C.PNG)
   
  
+**五行**      木   |   火   | 土   |   金   |   水  
 
 
 
